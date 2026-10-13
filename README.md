@@ -1,9 +1,6 @@
 # Operació Nord Tec
 
-**Nom i cognoms:** [Escriviu el vostre nom i cognoms]<br>
-**Grup classe:** [Escriviu el grup]
-
-> Documentació del projecte: estat, arquitectura, configuracions, incidències i decisions tècniques.
+**Nom i cognoms · Grup classe:** [Escriviu aquí les vostres dades]
 
 ## Índex
 
@@ -20,55 +17,40 @@
   - [Decisions tècniques](#decisions-tècniques)
   - [Reflexions tècniques](#reflexions-tècniques)
 
----
-
-<a id="estat-del-projecte"></a>
 ## Estat del projecte
 
-- **Fet:** [Indiqueu què ja s'ha completat.]
-- **Pendent:** [Indiqueu què falta fer.]
+Indiqueu què s'ha fet i què queda pendent.
 
-<a id="arquitectura-de-xarxa"></a>
 ## Arquitectura de xarxa
 
-[Afegiu el diagrama de xarxa i descriviu els elements principals, les adreces IP i altra informació rellevant.]
+Afegiu el diagrama de xarxa i la informació rellevant, com ara les adreces IP.
 
-<a id="configuracions"></a>
 ## Configuracions
 
-[Expliqueu els fitxers de configuració: per a què serveix cadascun i quins paràmetres importants conté.]
+Expliqueu els fitxers de configuració.
 
-<a id="incidencies-i-solucions"></a>
 ## Incidències i solucions
 
-Afegiu una entrada per cada incidència. Incloeu el missatge d'error exacte quan n'hi hagi.
-
-<a id="quan"></a>
 ### Quan
 
-[Fase del projecte i context en què va aparèixer.]
+Indiqueu la fase i el context.
 
-<a id="causa"></a>
 ### Causa
 
-[Per què passava.]
+Expliqueu per què passava.
 
-<a id="solucio"></a>
 ### Solució
 
-[Què vau fer per resoldre-ho.]
+Descriviu què vau fer i incloeu el missatge d'error exacte.
 
-<a id="detectada-per"></a>
 ### Detectada per
 
-[@usuari]
+Indiqueu l'usuari que la va detectar (per exemple, `@usuari`).
 
-<a id="decisions-tecniques"></a>
 ## Decisions tècniques
 
-[Indiqueu què vau triar, per què i quines alternatives vau valorar.]
+Expliqueu què vau triar, per què i quines alternatives vau considerar.
 
-<a id="reflexions-tecniques"></a>
 ## Reflexions tècniques
 
-[Anoteu els aprenentatges, les dificultats i què milloraríeu.]
+Afegiu les reflexions tècniques del projecte.
