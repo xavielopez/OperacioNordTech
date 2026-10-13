@@ -1,4 +1,3 @@
-### Prueba
 ## Títol Operació Nord Tec (ha d'incloure el vostre nom i cognom, grup classe)
 ### Índex (cada punt un link que dirigeixi a la ubicació de l'apartat indicat)
 ### Estat del projecte: indicant què s'ha fet i què està pendent
