@@ -54,8 +54,8 @@ Expliqueu què vau triar, per què i quines alternatives vau considerar.
 ## Reflexions tècniques
 
 Afegiu les reflexions tècniques del projecte.
-> [!NOTE]
-> [!TIP]
-> [!IMPORTANT]
-> [!WARNING]
-> [!CAUTION]
+>[!NOTE]
+
+>[!TIP]
+
+
