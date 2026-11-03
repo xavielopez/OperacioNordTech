@@ -58,4 +58,10 @@ Afegiu les reflexions tècniques del projecte.
 
 >[!TIP]
 
+>[!IMPORTANT]
+
+>[!WARNING]
+
+>[!CAUTION]
+
 
